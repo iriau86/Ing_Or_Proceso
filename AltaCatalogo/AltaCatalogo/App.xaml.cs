@@ -13,5 +13,6 @@ namespace AltaCatalogo
     /// </summary>
     public partial class App : Application
     {
+        // se agrega comentario
     }
 }
