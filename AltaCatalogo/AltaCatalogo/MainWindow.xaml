@@ -1,0 +1,17 @@
+﻿<Window x:Class="AltaCatalogo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AltaCatalogo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="imagen"  Content="Selecciona Imagen..." HorizontalAlignment="Left" Margin="335,25,0,0" VerticalAlignment="Top" Width="137" Click="imagen_Click" />
+        <TextBox x:Name="txt_nomimg" HorizontalAlignment="Left" Height="23" Margin="35,22,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="281"/>
+        <Button x:Name="SaveImage" Content="Button" HorizontalAlignment="Left" Height="21" Margin="291,115,0,0" VerticalAlignment="Top" Width="109" Click="SaveImage_Click"/>
+        <Button x:Name="muestraIm" Content="muestra imagen" HorizontalAlignment="Left" Margin="303,202,0,0" VerticalAlignment="Top" Width="75" Click="muestraIm_Click"/>
+        <Image x:Name="boxpic" Visibility="Visible" Source="{Binding TestImage}"    HorizontalAlignment="Right" Height="229" Margin="0,58,249,0" VerticalAlignment="Top" Width="233"/>
+
+    </Grid>
+</Window>

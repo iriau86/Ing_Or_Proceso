@@ -1,0 +1,14 @@
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.csprojResolveAssemblyReference.cache
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\MainWindow.g.cs
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\App.g.cs
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo_MarkupCompile.cache
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo_MarkupCompile.lref
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\bin\Debug\AltaCatalogo.exe.config
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\bin\Debug\AltaCatalogo.exe
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\bin\Debug\AltaCatalogo.pdb
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\MainWindow.baml
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.g.resources
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.Properties.Resources.resources
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.csproj.GenerateResource.Cache
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.exe
+C:\Users\iris\documents\visual studio 2017\Projects\AltaCatalogo\AltaCatalogo\obj\Debug\AltaCatalogo.pdb
